@@ -1,7 +1,8 @@
 {
-    "masterVersionFile":"https://github.com/MagmarLegionarre/The-Legionarry-Republic/files/10702798/Legionarry.Republic.0.08.zip",
+    "masterVersionFile":"https://raw.githubusercontent.com/MagmarLegionarre/The-Legionarry-Republic/main/leg.version",
     "modName":"Legionarry Republic",
     "modThreadId":"24862",
+    "directDownloadURL": "https://github.com/MagmarLegionarre/The-Legionarry-Republic/files/10702798/Legionarry.Republic.0.08.zip",
     "modVersion":
     {
         "major":0,
