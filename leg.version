@@ -6,7 +6,7 @@
     "modVersion":
     {
         "major":0,
-        "minor":08,
+        "minor":09,
         "patch":"0"
     },
 	"starsectorVersion":"0.95.1a-RC6"
